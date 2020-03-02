@@ -6,7 +6,6 @@ Install
 1) Format a cheap USB flash drive with FAT32 on your system of choice (Linux/MacOs/Windows)
 2) Clone the project to any folder
 3) Run the installer and follow the prompts
->Passphrase:  
 >Requirements:  
 >Target Folder:   
 
@@ -19,3 +18,4 @@ Generate Password
 Note: The password is copied to the clipboard, to clear the clipboard after paste, restart the computer.
 
 Note: Store the USB flash drive off site, in a security box, e.g. in a bank
+Note: Memorize the passphrase, don't use any obvious names such as name of the USB flash drive, the location of storage. Perform a 6 month routine to refresh memory of the procedure.
