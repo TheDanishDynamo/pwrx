@@ -9,7 +9,7 @@ Install
 >Requirements:  
 >Target Folder:   
 
-Note: The installer will copy a key and a script with requirements to the USB flash drive
+Note: The installer will copy a key and a script with requirements to the USB flash drive as well as python/php and dependencies.
 
 Generate Password
 1) Run the script on the USB flash drive, and follow the prompt
